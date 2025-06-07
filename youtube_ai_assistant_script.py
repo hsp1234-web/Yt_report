@@ -1,0 +1,6 @@
+# @title 1. 環境設定與套件安裝
+# !(All your Python code from that section would go here)
+# ...
+# ...
+display(main_layout_vbox)
+populate_model_dropdown(status_output_area)
